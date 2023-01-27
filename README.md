@@ -17,7 +17,7 @@ gpt에 대한 논문 해석
 
 ####Keypoint：PPO
 -  논문 제목:Proximal Policy Optimization Algorithms
-![image](https://github.com/zhanglina94/gpt_explain_ko/img/ppo.png)
+![PPO Algorithm](https://github.com/zhanglina94/gpt_explain_ko/img/ppo.png)
 
 
-![image](https://.png)
+![IGPT workflow](https://github.com/zhanglina94/gpt_explain_ko/img/igpt.png)
