@@ -13,9 +13,10 @@ gpt에 대한 논문 해석
 
 ## InstructGPT
 - 논문 제목:Training language models to follow instructions with human feedback
+
 [IGPT workflow](https://github.com/zhanglina94/gpt_explain_ko/blob/main/img/igpt.png)
 
-####Keypoint：PPO
+#### Keypoint：PPO
 
 -  논문 제목:Proximal Policy Optimization Algorithms
 [PPO Algorithm](https://github.com/zhanglina94/gpt_explain_ko/blob/main/img/ppo.png)
