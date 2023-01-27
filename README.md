@@ -1,6 +1,9 @@
 # gpt_explain_ko
 gpt에 대한 논문 해석 
 
+GPT (Generative Pre-trained Transformer) 란 Generative (생성하는) Pre-trained (사전 학습된) Transformer (트랜스포머) 이다.
+
+
 ## GPT
 - 논문 제목:
 
