@@ -1,7 +1,6 @@
 
 <h1 align="center">
-  <img width="300" src="/img/logoname-black.svg#gh-light-mode-only" alt="ChatGPT">
-  <img width="300" src="/img/logoname-white.svg#gh-dark-mode-only" alt="ChatGPT">
+  <img width="300" s alt="ChatGPT">
   
 </h1>
 <p align="center">
