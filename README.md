@@ -102,7 +102,7 @@ GPT-3 Training Dataset
 
 -----
 #### Keypoint
-###### RLHF:
+##### RLHF:
 -  논문 제목:Proximal Policy Optimization Algorithms
 
 RLHF 이용한 Dialog Agents
@@ -119,18 +119,20 @@ RLHF의 과정:
 
 
 
-###### PPO
+##### PPO
 
 -  논문 제목:Proximal Policy Optimization Algorithms
 ![image](https://github.com/zhanglina94/gpt_explain_ko/blob/main/img/ppo.png)
 
-###### 
+##### Prompt
+Prompt engineering is used to better understand the LLMs.
 
 ## References
 [1] [2022_BlenderBot 3: a deployed conversational agent that continually∗ learns to responsibly engage](https://arxiv.org/abs/2208.03188) </p>
 [2] [2022_LaMDA: Language Models for Dialog Applications!](https://arxiv.org/abs/2201.08239) </p>
 [3] [2022_Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375) </p>
 [4] [2022_Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862) </p>
+[5] [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)</p>
 
 ## 🦸 Contributors
 
